@@ -1,0 +1,15 @@
+.tituloPetshop span{
+    text-align: center;
+    font-variant: small-caps;
+    background-color: rgba(244, 165, 96, 0.596);
+    text-decoration: overline;
+}
+
+.campoFaleConosco {
+   /* text-align: center; */
+    border-style: dashed;
+    border-color: tan;
+    margin: 5px;
+    padding: 10px;
+    background-color: rgba(211, 211, 211, 0.541);
+}
